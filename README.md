@@ -1,5 +1,5 @@
 # SEP (Sempurna Elektronik Penjualan)
-Merupakan aplikasi gudang dan kasir berbasis desktop yang dibangun dengan teknologi Java (NetBeans). Aplikasi ini adalah project skripsi saya dalam memenuhi persyaratan gelar sarjana.
+Merupakan aplikasi gudang dan kasir berbasis desktop yang dibangun dengan teknologi Java (NetBeans).
 
 Fitur-fitur yang dimiliki aplikasi ini mencakup:
 - Perhitungan Standart Kasir
